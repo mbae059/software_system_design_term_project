@@ -4,7 +4,7 @@ Basically all files have been modified so when writing a report, be sure to comp
 There are some files added
 
 - ElevatorControllerKind.java
-- ElevatorDirection
+- ElevatorDirection.java
 
 I am a bit worried about these changes because those were integer number indication the kind or the direction.
 
