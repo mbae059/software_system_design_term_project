@@ -1,12 +1,5 @@
-Basically all files have been modified so when writing a report, be sure to compare all the files
+compare this with src-version1_professor as that version is the version that the professor wanted us to write.
 
-# Caution
-There are some files added
+As the next week HW is about reducing redundancy, I didn't remove the switch case statement.
 
-- ElevatorControllerKind.java
-- ElevatorDirection.java
-
-I am a bit worried about these changes because those were integer number indication the kind or the direction.
-
-If these integer numbers are used when incrementing or decrementing, we would have to add a few functions.
-
+check the code and if you think there is a better way, share your thoughts with me.
